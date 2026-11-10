@@ -1,0 +1,7 @@
+train.csv
+a_decider.csv
+kaggle.json
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
